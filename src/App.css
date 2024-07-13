@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  display: flex;
+}
+.sidebar{
+  min-height: 600px;
+}
+.posts{
+  margin: 10px;
+}
+.navdiv{
+  width: 100%;
 }
 
 .App-logo {
