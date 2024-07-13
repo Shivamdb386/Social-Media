@@ -2,10 +2,10 @@ import App from "./App";
 function Posts({Postdetail}){
     function handledetails(dgname){
         console.log(dgname);
-        if(dgname === "Lebrador")
-        window.open("https://www.akc.org/dog-breeds/labrador-retriever/","_blank", "noreferrer");
-        else if(dgname ===  "Rottweiler")
-        window.open("https://www.akc.org/dog-breeds/rottweiler/");
+        //if(dgname === "Lebrador")
+        //window.open("https://www.akc.org/dog-breeds/labrador-retriever/","_blank", "noreferrer");
+        //else if(dgname ===  "Rottweiler")
+        //window.open("https://www.akc.org/dog-breeds/rottweiler/","_blank", "noreferrer");
 
 
     }
