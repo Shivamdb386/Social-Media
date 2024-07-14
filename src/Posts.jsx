@@ -1,4 +1,5 @@
 import App from "./App";
+import PostList from "./PostList";
 function Posts({Postdetail}){
     function handledetails(dgname){
         console.log(dgname);
